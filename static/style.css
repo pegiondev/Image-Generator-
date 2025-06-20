@@ -1,0 +1,7 @@
+.card {
+    background: blue;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+    display: flex;
+}
